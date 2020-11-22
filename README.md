@@ -1,5 +1,5 @@
 # Machine-learning-assignments
-Jupyter notebooks coded during machine-learning assignments @ TU/e Eindhoven University of Technology, Netherlands
+Jupyter notebooks coded during machine-learning assignments for the web information retrieval course @ TU/e Eindhoven University of Technology, Netherlands
 
 # Topics covered
 * **Assignment 1**: Evaluation, Kernelization and tuning of Support Vector Machines with the Fashion-MNIST-dataset
